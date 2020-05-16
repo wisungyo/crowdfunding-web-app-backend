@@ -2,8 +2,8 @@
 In the project directory, you can run:
 
 ### `node app.js`
-Runs the app using this commant.
-Open http://localhost:3000 to view it in the browser.
+Runs the app locally using this commant.
+Open http://localhost:4000 to view it in the browser.
 
 ## Project Description
 This is the backend of crowdfunding web app that the frontend repository is also available by the name "crowdfunding-web-app". Any data that stored in this project about this project is only for the backend.
